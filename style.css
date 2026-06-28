@@ -91,6 +91,8 @@ text-align:center;
 
 .input-box input:focus{
     border-color:#2563eb;
+    box-shadow:0 0 0 4px rgba(37,99,235,.15);
+    transform:scale(1.01);
 }
 
 .options{
