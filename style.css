@@ -9,6 +9,7 @@ body{
 }
 
 body{
+    background:linear-gradient(135deg,#0f172a,#1e3a8a,#2563eb);
     min-height:100vh;
     display:flex;
     justify-content:center;
