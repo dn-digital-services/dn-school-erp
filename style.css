@@ -77,7 +77,7 @@ text-align:center;
     color:#2563eb;
     font-size:18px;
     z-index:2;
-    .input-box > i:not(.toggle-password){
+    pointer-events:none;
 }
 
 .toggle-password{
