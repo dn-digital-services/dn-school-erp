@@ -80,6 +80,18 @@ text-align:center;
     pointer-events:none;
 }
 
+.toggle-password{
+    left:auto;
+    right:20px;
+    cursor:pointer;
+    color:#94a3b8;
+    transition:.3s;
+}
+
+.toggle-password:hover{
+    color:#2563eb;
+}
+
 .input-box input{
     width:100%;
     height:55px;
