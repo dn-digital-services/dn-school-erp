@@ -118,3 +118,22 @@ button{
 button:hover{
     background:#1d4ed8;
 }
+
+.login-footer{
+    margin-top:25px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:12px;
+    font-size:14px;
+}
+
+.login-footer a{
+    color:#2563eb;
+    text-decoration:none;
+    font-weight:500;
+}
+
+.login-footer span{
+    color:#94a3b8;
+}
