@@ -76,6 +76,8 @@ text-align:center;
     transform:translateY(-50%);
     color:#2563eb;
     font-size:18px;
+    z-index:2;
+    pointer-events:none;
 }
 
 .input-box input{
