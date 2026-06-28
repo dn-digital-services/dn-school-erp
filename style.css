@@ -69,7 +69,7 @@ text-align:center;
     margin-bottom:20px;
 }
 
-.input-box i{
+.input-box > i{
     position:absolute;
     left:25px;
     top:50%;
