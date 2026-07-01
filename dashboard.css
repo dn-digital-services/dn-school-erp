@@ -75,8 +75,8 @@ body{
     margin:0;
 }
 
-.sidebar ul li{
-    font-size:0;
+.sidebar ul li span{
+    display:none;
 }
 
 .sidebar ul li i{
