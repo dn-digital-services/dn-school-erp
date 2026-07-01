@@ -50,3 +50,31 @@ body{
 .sidebar ul li:hover{
     background:rgba(255,255,255,.15);
 }
+
+@media (max-width:768px){
+
+.sidebar{
+    width:80px;
+    min-width:80px;
+    padding:20px 10px;
+}
+
+.logo h2{
+    display:none;
+}
+
+.sidebar ul li{
+    text-align:center;
+    padding:18px 0;
+}
+
+.sidebar ul li i{
+    display:block;
+    font-size:22px;
+    margin-bottom:8px;
+}
+
+.main-content{
+    padding:20px;
+}
+}
