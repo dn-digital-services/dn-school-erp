@@ -15,7 +15,8 @@ body{
 }
 
 .sidebar{
-    width:260px;
+    width:280px;
+    min-width:280px;
     background:#1e3a8a;
     color:#fff;
     padding:25px;
@@ -27,6 +28,7 @@ body{
     gap:12px;
     font-size:22px;
     margin-bottom:40px;
+    white-space: nowrap;
 }
 
 .logo i{
