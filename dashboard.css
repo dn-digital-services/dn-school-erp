@@ -64,17 +64,28 @@ body{
 }
 
 .sidebar ul li{
-    text-align:center;
+    display:flex;
+    justify-content:center;
+    align-items:center;
     padding:18px 0;
 }
 
 .sidebar ul li i{
-    display:block;
     font-size:22px;
-    margin-bottom:8px;
+    margin:0;
+}
+
+.sidebar ul li{
+    font-size:0;
+}
+
+.sidebar ul li i{
+    font-size:22px;
 }
 
 .main-content{
+    flex:1;
     padding:20px;
 }
+
 }
