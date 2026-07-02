@@ -167,3 +167,28 @@ body{
     color:#666;
     font-size:15px;
 }
+.recent-activity{
+    margin-top:30px;
+    background:#fff;
+    padding:25px;
+    border-radius:15px;
+    box-shadow:0 10px 25px rgba(0,0,0,.08);
+}
+
+.recent-activity h2{
+    margin-bottom:20px;
+}
+
+.recent-activity ul{
+    list-style:none;
+}
+
+.recent-activity ul li{
+    padding:14px 0;
+    border-bottom:1px solid #eee;
+    font-size:16px;
+}
+
+.recent-activity ul li:last-child{
+    border-bottom:none;
+}
